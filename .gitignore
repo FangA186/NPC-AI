@@ -26,6 +26,6 @@
 .vsconfig
 
 # Custom User Ignores
-.format_dify.py
+format_dify.py
 *.resolved
 *.htm
